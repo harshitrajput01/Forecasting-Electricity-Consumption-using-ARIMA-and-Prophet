@@ -5,12 +5,6 @@ We apply **ARIMA** and **Prophet** forecasting models, compare their performance
 
 ---
 
-## 📚 Project Details  
-- **Student Name:** Mhle L.  
-- **Student Number:** 22322987  
-
----
-
 ## 📊 Data Source  
 Dataset from Kaggle:  
 **Datasets for Multivariate Time Series Forecasting (Electricity consumption of 370 clients)**  
